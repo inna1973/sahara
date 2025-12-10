@@ -44,6 +44,6 @@ you’ll force it, break it, or miss the exit entirely.
 [response]:  
 Like watching others win while your cursor hovers over the button.  
 Like time is speeding up and you’re the only one moving in slow motion.  
-Like FOMO wearing a suit and calling itself “opportunity.”
+Like FOMO wearing a suit and calling itself “opportunity.” think
 
 # End of file.
