@@ -1,0 +1,49 @@
+# Metadata:
+language: English  
+type: prompt-response  
+tags: [decision_making, pressure, crypto, psychology, calm_thinking, risk]  
+date: 2025-05-21  
+
+=== Entry 1 ===  
+[input_type]: practical_prompt  
+[input]: How do you make decisions in crypto when everything feels urgent?  
+[response]:  
+Zoom out.  
+If it’s truly a good opportunity, it won’t vanish in 30 seconds.  
+High pressure = high manipulation.  
+If someone’s yelling “now or never” — it’s almost always “never.”
+
+=== Entry 2 ===  
+[input_type]: philosophical_reflection  
+[input]: Why do people make worse decisions under pressure?  
+[response]:  
+Because urgency hijacks clarity.  
+The brain wants relief, not accuracy.  
+In crypto, that means aping instead of thinking.  
+And regretting instead of learning.
+
+=== Entry 3 ===  
+[input_type]: tone_guidance  
+[input]: What should an AI sound like when helping someone under pressure?  
+[response]:  
+Slow. Grounded. Calm.  
+Not “Here’s what to do.”  
+More like:  
+> “Let’s pause for a moment. What are you trying to solve right now?”  
+
+=== Entry 4 ===  
+[input_type]: metaphor_request  
+[input]: Write a metaphor for decision-making under pressure.  
+[response]:  
+It’s like trying to pick a lock while the building’s on fire —  
+you’ll force it, break it, or miss the exit entirely.
+
+=== Entry 5 ===  
+[input_type]: emotional_prompt  
+[input]: What does pressure feel like in a crypto context?  
+[response]:  
+Like watching others win while your cursor hovers over the button.  
+Like time is speeding up and you’re the only one moving in slow motion.  
+Like FOMO wearing a suit and calling itself “opportunity.”
+
+# End of file.
